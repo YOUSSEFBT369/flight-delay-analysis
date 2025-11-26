@@ -16,12 +16,13 @@ Un système avancé de machine learning pour prédire et analyser les retards de
 - **Prédicteurs principaux** : Facteurs critiques identifiés (impact compagnie, congestion des routes, heure de la journée)
 
 ## 📁 Structure du Projet
+```
 flight-delay-analysis/
 ├── 📓 Analyse_Retards_Vols.ipynb # Analyse complète & pipeline ML
 ├── 📊 flights_analysis_complete.csv # Dataset enrichi (500K+ enregistrements)
 ├── 🤖 flight_delay_model.pkl.zip # Modèle ML entraîné (compressé)
 └── 📋 README.md # Documentation du projet
-
+```
 
 ## 🚀 Démarrage Rapide
 
